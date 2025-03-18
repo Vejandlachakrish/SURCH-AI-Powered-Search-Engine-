@@ -1,0 +1,13 @@
+cluster.name: "surch-cluster"
+node.name: "surch-node"
+network.host: 0.0.0.0
+http.port: 9200
+discovery.type: single-node
+
+# Security Settings
+xpack.security.enabled: false
+xpack.monitoring.collection.enabled: true
+
+# Performance Tuning
+indices.memory.index_buffer_size: 20%
+indices.store.throttle.type: none

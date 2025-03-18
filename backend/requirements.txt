@@ -1,0 +1,16 @@
+ 
+Flask==3.0.0
+Scrapy==2.11.0
+elasticsearch==8.12.0
+beautifulsoup4==4.12.3
+torch==2.2.0
+transformers==4.37.0
+sentence-transformers==2.5.0
+scikit-learn==1.4.0
+numpy==1.26.4
+pandas==2.2.0
+requests==2.31.0
+Flask-CORS==4.0.1
+gunicorn==21.2.0
+redis==5.0.1
+tf-keras==2.15

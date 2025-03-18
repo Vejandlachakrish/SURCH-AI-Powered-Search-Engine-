@@ -1,0 +1,21 @@
+.results-container {
+  max-width: 600px;
+  margin: 20px auto;
+  text-align: left;
+}
+
+.result-item {
+  background: white;
+  padding: 15px;
+  border-radius: 5px;
+  margin-bottom: 10px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+}
+
+.result-item h3 {
+  margin: 0;
+}
+
+.result-item p {
+  color: #666;
+}
