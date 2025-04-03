@@ -139,7 +139,7 @@ If you’d like to contribute, feel free to submit a **Pull Request**. Make sure
 
 ## 📜 License
 
-MIT License © 2025 Your Name
+MIT License © 2025 Vejandla Chakrish
 
 ---
 
